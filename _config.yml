@@ -9,14 +9,14 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Your Name / Site Title"
+title                    : "Jeremy Irvine"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://academicpages.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+name                     : &name "Jeremy Irvine"
+description              : &description "Jeremy Irvine's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
+url                      : https://irvinejeremy.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "irvinejeremy/irvinejeremy.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -24,25 +24,25 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  name             : "Jeremy Irvine"
+  pronouns         : "he/him/il"  
+  bio              : "Jeremy Irvine (he/him/il) is a Vanier Scholar and PhD student at the University of Saskatchewan, where he investigates the chemical ecology and integrated management of insect pests in forage seed systems. He is deeply committed to science communication, and much of his work centers on building inclusive entomological communities both within and beyond academia. "
+  location         : "Saskatoon, Saskatchewan, Canada"
+  employer         : "University of Saskatchewan"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "jeremy.irvine@usask.ca" 
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=Qzk74poAAAAJ&hl=en"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0009-0007-7637-1384"
   semantic         : # URL
   ssrn             : # URL
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
+  researchgate     : "https://www.researchgate.net/profile/Jeremy-Irvine"
   scopus           : # URL
   zotero           : # URL
 
@@ -51,22 +51,22 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "irvinejeremy"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : "iwatchbugs.bsky.social" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  instagram        : # Username
+  instagram        : "jeremyirvine"
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "jeremy-irvine"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -74,7 +74,7 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : # Username for X / Twitter
+  twitter          : "Jeremyirvine"
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
