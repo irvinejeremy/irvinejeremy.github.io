@@ -12,6 +12,5 @@ Teaching assistant for **PLSC 450 – Applied Entomology**.
 I graded assignments, provided detailed feedback, assisted in syllabus development, and created an original assignment introducing economic injury levels and economic thresholds.  
 
 I delivered two guest lectures:
-
 - **“Applied Entomology in Action: IPM and Tools for Growers”** (2024)  
 - **“Applied Economic Thresholds”** (2025)
