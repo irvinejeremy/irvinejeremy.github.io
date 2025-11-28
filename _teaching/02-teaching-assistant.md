@@ -3,8 +3,7 @@ title: "Teaching Assistant Roles"
 collection: teaching
 type: "Teaching Assistant"
 venue: "University of Saskatchewan"
-date: 2025-01-01
-show_date: false
+date: 2025-01-02
 location: "Saskatoon, SK"
 permalink: /teaching/ta-roles/
 ---
