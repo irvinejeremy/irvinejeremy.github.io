@@ -29,7 +29,7 @@ author:
   bio              : "Jeremy Irvine (he/him/il) is a Vanier Scholar and PhD student at the University of Saskatchewan, where he investigates the chemical ecology and integrated management of insect pests in forage seed systems. He is deeply committed to science communication, and much of his work centers on building inclusive entomological communities both within and beyond academia. "
   location         : "Saskatoon, SK, CA"
   employer         : "University of Saskatchewan"
-  uri              : # URL
+  uri              : "entomologist.ca"# URL
   email            : "jeremy.irvine@usask.ca" 
 
   # Academic websites
@@ -148,10 +148,17 @@ og_description           :  # Social media default site image description
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
-
+  type                   : Person # Person or Organization (defaults to Person)
+  name                   : "Jeremy Irvine" # If the user or organization name differs from the site's name
+  links:
+    - "https://scholar.google.com/citations?user=Qzk74poAAAAJ&hl=en"
+    - "https://orcid.org/0009-0007-7637-1384"
+    - "https://www.researchgate.net/profile/Jeremy-Irvine"
+    - "https://www.linkedin.com/in/jeremy-irvine"
+    - "https://bsky.app/profile/iwatchbugs.bsky.social"
+    - "https://github.com/irvinejeremy"
+    - "https://www.instagram.com/jeremyirvine"
+    - "https://x.com/Jeremyirvine"
 
 # Analytics
 analytics:
@@ -302,7 +309,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: Etc/UTC # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/Regina # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
