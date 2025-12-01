@@ -1,6 +1,7 @@
 ---
 title: "Economic Thresholds for Lesser Clover Leaf Weevil in Red Clover Seed Production"
-collection: manuscripts
+collection: publications
+category: manuscripts
 permalink: /publication/2025-01-01-lclw-eil-extension
 excerpt: 'A grower-focused extension summary describing new economic thresholds for lesser clover leaf weevil.'
 date: 2025-01-01
