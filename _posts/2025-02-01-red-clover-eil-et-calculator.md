@@ -28,7 +28,16 @@ This tool is based on multi-year field trials and laboratory studies conducted i
 
 A production version of the app will be hosted on **shinyapps.io**.
 
-**[Launch EIL/ET Calculator](#)**    
+[**Launch Full-Screen Calculator**](https://jeremyirvine.shinyapps.io/EIL-ET-Calc/){: .btn .btn--primary target="_blank" }
+
+<div style="position: relative; padding-bottom: 70%; height: 0; overflow: hidden; margin-top: 1rem; border: 1px solid #ccc;">
+  <iframe
+    src="https://jeremyirvine.shinyapps.io/EIL-ET-Calc/"
+    frameborder="0"
+    style="position:absolute; top:0; left:0; width:100%; height:100%;">
+  </iframe>
+</div>
+
 
 ## Why this tool matters
 Lesser clover leaf weevil larvae can substantially reduce seed yield.  
