@@ -1,7 +1,7 @@
 ---
 title: "Effects of Phytoplasma Infection on Aster Leafhopper (*Macrosteles quadrilineatus*) Settling Behavior and Development on Brassica napus"
 collection: portfolio
-excerpt: "Experimental work on how aster yellows phytoplasma infection in canola affects aster leafhopper settling behavior and development (Entomologia Experimentalis et Applicata, 2025)."
+excerpt: "Experimental work on how aster yellows phytoplasma infection in canola affects aster leafhoppers"
 ---
 
 This project examines how aster yellows phytoplasma (AYp) infection in canola (*Brassica napus* L.) affects the behavior and performance of its vector, the aster leafhopper (*Macrosteles quadrilineatus* Forbes).
