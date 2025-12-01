@@ -9,6 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
+[**Download PDF Version**]({{ base_path }}/files/irvine-jeremy-cv.pdf){: .btn .btn--primary}
+
+Education
+======
+
+
 Education
 ======
 * PhD student, Department of Plant Sciences, University of Saskatchewan, Saskatoon, SK, Canada (in progress)  
