@@ -1,6 +1,7 @@
 ---
 title: "Challenges in Undergraduate Research: Pathways to Stronger Graduate Programs"
-collection: manuscripts
+collection: publications
+category: articles
 permalink: /publication/2025-01-01-undergrad-research-barriers
 excerpt: 'This article highlights barriers to undergraduate research access and argues for improvements that strengthen graduate education.'
 date: 2025-01-01
