@@ -19,8 +19,6 @@ It allows growers to estimate:
 
 This tool is based on multi-year field trials and laboratory studies conducted in Saskatchewan, and is tailored specifically for Western Canadian red clover seed systems.
 
----
-
 ## What this tool does
 - Calculates **EIL** using real agronomic inputs  
 - Generates **ET** values recommended for scouting and spray timing  
@@ -30,12 +28,8 @@ This tool is based on multi-year field trials and laboratory studies conducted i
 
 A production version of the app will be hosted on **shinyapps.io**.
 
----
-
 ## Launch the Calculator  
 **[Launch EIL/ET Calculator](#)**    
-
----
 
 ## Why this tool matters
 Lesser clover leaf weevil larvae can substantially reduce seed yield.  
@@ -50,8 +44,6 @@ This calculator turns field scouting information into a practical recommendation
 
 It provides a transparent, research-supported threshold to guide decision-making.
 
----
-
 ## Supporting Research
 This tool is based on results from:
 
@@ -62,15 +54,11 @@ DOI: https://doi.org/10.1093/jee/toaf290
 
 Additional supporting data from sequential sampling and dispersion analyses will be incorporated in future updates.
 
----
-
 ## Features Planned for Future Updates
 - Sequential sampling plan integration  
 - Larval dispersion visualization tool  
 - Yield-loss forecasting module  
 - Mobile-friendly interface   
-
----
 
 ## For Growers & Agronomists
 This tool was developed to support **evidence-based pest management** and reduce unnecessary insecticide use in red clover seed production.
