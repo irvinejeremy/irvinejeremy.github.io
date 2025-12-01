@@ -20,12 +20,11 @@ main:
   - title: "Teaching"
     url: /teaching/
 
-  - title: "Outreach"
-    url: /outreach/
-
   - title: "Talks"
     url: /talks/
 
   - title: "CV"
     url: /cv/
-
+    
+  - title: "For Growers"
+    url: /growers/
