@@ -1,5 +1,5 @@
 ---
-title: "Red Clover Economic Threshold Calculator (Beta)"
+title: "Red Clover Grower Tool (Beta)"
 date: 2025-02-01
 permalink: /posts/2025/02/red-clover-eil-et-calculator/
 tags:
