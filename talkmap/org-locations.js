@@ -10,6 +10,11 @@ var addressPoints = [
     -103.660126
   ],
   [
+    "Aster yellows phytoplasma infection status modifies vector settling behaviour<br />Universit\u00e4t D\u00fcsseldorf; D\u00fcsseldorf, Germany",
+    51.2254018,
+    6.7763137
+  ],
+  [
     "Lesser Clover Leaf Weevil: Scouting, Economic Thresholds, and Sequential Sampling Plans<br />Saskatchewan Forage Seed Development Commission Annual Meeting; White Fox, SK, Canada",
     53.4490115,
     -104.0856554
