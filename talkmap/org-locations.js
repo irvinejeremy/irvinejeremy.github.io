@@ -25,6 +25,11 @@ var addressPoints = [
     -104.0856554
   ],
   [
+    "Integrating Applied and Molecular Tools for Managing the Lesser Clover Leaf Weevil<br />Forage Seed Production Forum 2025; Carrot River, SK, Canada",
+    53.284101,
+    -103.584595
+  ],
+  [
     "Lesser Clover Leaf Weevil in Red Clover Seed Production: Scouting, Thresholds, and Sequential Sampling Plans<br />Entomological Society of Saskatchewan Annual Meeting 2023; Saskatoon, SK, Canada",
     52.131802,
     -106.660767
