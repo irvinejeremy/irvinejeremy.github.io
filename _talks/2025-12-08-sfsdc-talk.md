@@ -2,7 +2,7 @@
 title: "Integrating Applied and Molecular Tools for Managing the Lesser Clover Leaf Weevil"
 collection: talks
 type: "Conference talk"
-permalink: /talks/2025-12-08-sfsdc-talk.md
+permalink: /talks/2025-12-08-sfsdc-talk
 venue: "Forage Seed Production Forum 2025"
 date: 2025-12-08
 location: "Carrot River, SK, Canada"
