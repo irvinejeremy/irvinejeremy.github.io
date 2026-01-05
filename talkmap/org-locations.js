@@ -1,5 +1,10 @@
 var addressPoints = [
   [
+    "Same Crops, Different Challenges: A Canadian Perspective<br />Optus Stadium; Perth, Australia",
+    -31.9558967,
+    115.8605784
+  ],
+  [
     "Crop Damage, Economic Loss, and Weevils: Developing Tools for Red Clover Seed Growers<br />Graduate Student Research Conference; Saskatoon, SK, Canada",
     52.131802,
     -106.660767
