@@ -2,7 +2,7 @@
 title: "Aster yellows phytoplasma infection status modifies vector settling behaviour"
 collection: talks
 type: "Conference talk"
-permalink: /talks/2023-01-15-ceplas-talk.md
+permalink: /talks/2023-01-15-ceplas-talk
 venue: "Universität Düsseldorf"
 date: 2023-01-30
 location: "Düsseldorf, Germany"
